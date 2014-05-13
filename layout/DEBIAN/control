@@ -1,0 +1,10 @@
+Package: com.bd452.bypass
+Name: ByPass
+Depends: mobilesubstrate, libactivator, com.bd452.libPass
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Bypass your passcode with Activator.
+Depiction: http://repo.bd452.com/package/bypass
+Maintainer: bd452
+Author: bd452
+Section: Tweaks
