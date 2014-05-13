@@ -8,6 +8,6 @@ TWEAK_NAME = ByPass
 
 ByPass_FILES = Tweak.xm
 ByPass_FRAMEWORKS = UIKit
-ByPass_LIBRARIES = MobileGestalt activator Pass
+ByPass_LIBRARIES = activator Pass
 
 include $(THEOS_MAKE_PATH)/tweak.mk
