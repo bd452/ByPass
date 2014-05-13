@@ -1,6 +1,6 @@
 TARGET = iphone:clang:7.1:7.1
 ARCHS = armv7 armv7s arm64
-#CFLAGS = -fobjc-arc
+#CFLAGS = -fobjc-arc <- That causes SpringBoard to crash…
 
 include theos/makefiles/common.mk
 
